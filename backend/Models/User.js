@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 import plm from 'passport-local-mongoose'
-
+// adding user by schema
 const userSchema = new mongoose.Schema({
     username : String,
     email : String,
