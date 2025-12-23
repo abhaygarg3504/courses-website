@@ -1,3 +1,4 @@
+// schema for FAQ
 import mongoose from 'mongoose';
 
 const Faqschema = new mongoose.Schema({
