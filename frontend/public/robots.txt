@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+
+Disallow: /admin/
+
+Sitemap: https://www.myglobalconsultant.com/api/sitemap.xml
+
